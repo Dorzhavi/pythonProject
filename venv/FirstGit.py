@@ -1,1 +1,2 @@
-print (3)
+def a ():
+    print (3);
